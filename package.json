@@ -26,7 +26,11 @@
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "^4.7.0"
+    "@faker-js/faker": "^8.4.0",
+    "@stencil/core": "^4.7.0",
+    "@xeokit/xeokit-sdk": "^2.5.2-beta-20",
+    "bootstrap": "^5.3.2",
+    "gridjs": "^6.1.1"
   },
   "devDependencies": {
     "@types/jest": "^29.5.6",

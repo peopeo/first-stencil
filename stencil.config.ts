@@ -15,6 +15,13 @@ export const config: Config = {
     },
     {
       type: 'www',
+      // copy: [
+      //   {
+      //     src: '**/*.{jpg,png,xkt,ifc,glb,glTF,svg }',
+      //     dest: 'www/build/assets',
+      //     warn: true,
+      //   }
+      // ],
       serviceWorker: null, // disable service workers
     },
   ],

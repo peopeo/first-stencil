@@ -1,10 +1,11 @@
 import { Component, Prop, h } from '@stencil/core';
 import { format } from '../../utils/utils';
+//import { Viewer, XKTLoaderPlugin } from "./node_modules/@xeokit/xeokit-sdk/dist/xeokit-sdk.min.es.js";
 
 @Component({
   tag: 'my-component',
   styleUrl: 'my-component.css',
-  shadow: true,
+  shadow: false,
 })
 export class MyComponent {
   /**
