@@ -1,0 +1,20 @@
+{
+    "xktFiles": [
+        "westside_architectural.xkt",
+        "westside_electrical.xkt",
+        "westside_fireAlarms.xkt",
+        "westside_mechanical.xkt",
+        "westside_plumbing.xkt",
+        "westside_sprinklers.xkt",
+        "westside_structure.xkt"
+    ],
+    "metaModelFiles": [
+        "westside_architectural.json",
+        "westside_electrical.json",
+        "westside_fireAlarms.json",
+        "westside_mechanical.json",
+        "westside_plumbing.json",
+        "westside_sprinklers.json",
+        "westside_structure.json"
+    ]
+}

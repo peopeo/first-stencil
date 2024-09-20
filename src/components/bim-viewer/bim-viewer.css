@@ -24,8 +24,10 @@
 /* ######################################################### */
 /* GRIDJ\ */
 /* ######################################################### */
-
-.gridjs-head button,
+.grid{
+  width: 100%;
+  height: 100%; 
+}
 .gridjs-footer button {
   cursor: pointer;
   background-color: transparent;
@@ -424,10 +426,9 @@ th.gridjs-th:last-child {
 
 #treeViewContainer {
   pointer-events: all;
-  /* height: 100%; */
-  height: 20vh;
+  height: 80vh;
   width: 350px;
-  top: 60vh;
+  top: 10vh;
   overflow-y: scroll;
   overflow-x: scroll;
   position: absolute;
@@ -444,6 +445,7 @@ th.gridjs-th:last-child {
   -moz-user-select: none;
   -webkit-user-select: none;
 }
+
 
 #treeViewContainer ul {
   list-style: none;

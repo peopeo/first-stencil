@@ -1,0 +1,17 @@
+{
+    "xktFiles": [
+        "Clinic_Architectural.xkt",
+        "Clinic_Electrical.xkt",
+        "Clinic_HVAC.xkt",
+        "Clinic_Plumbing.xkt",
+        "Clinic_Structural.xkt"
+    ],
+    "metaModelFiles": [
+        "Clinic_Architectural.json",
+        "Clinic_Electrical.json",
+        "Clinic_HVAC.json",
+        "Clinic_Plumbing.json",
+        "Clinic_Structural.json"
+    
+    ]
+}
